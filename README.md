@@ -1,2 +1,2 @@
 # PR2_Vector
-Im Rahmen der Lehrveranstaltung PR2 der Universität Wien soll eine vereinfachte Version von std::vector implementiert werden.
+As part of the PR2 (Programming 2) course at the University of Vienna, a simplified version of std::vector was implemented in C++.
